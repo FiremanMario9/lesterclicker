@@ -1,4 +1,3 @@
-http://orteil.dashnet.org/cookieclicker/img/AQWorlds_CookieClicker_300x40.png
 http://orteil.dashnet.org/cookieclicker/img/BGgarden.jpg
 http://orteil.dashnet.org/cookieclicker/img/BGgrimoire.jpg
 http://orteil.dashnet.org/cookieclicker/img/BGmarket.jpg
