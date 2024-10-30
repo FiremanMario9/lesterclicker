@@ -351,150 +351,26 @@ AddLanguage('EN','english',{
 	"Name your bakery": "/",
 	"What should your bakery's name be?": "/",
 	"bakery random name, 1st half": [
-		"Magic",
-		"Fantastic",
-		"Fancy",
-		"Sassy",
-		"Snazzy",
-		"Pretty",
-		"Cute",
-		"Pirate",
-		"Ninja",
-		"Zombie",
-		"Robot",
-		"Radical",
-		"Urban",
-		"Cool",
-		"Hella",
-		"Sweet",
-		"Awful",
-		"Double",
-		"Triple",
-		"Turbo",
-		"Techno",
-		"Disco",
-		"Electro",
-		"Dancing",
-		"Wonder",
-		"Mutant",
-		"Space",
-		"Science",
-		"Medieval",
-		"Future",
-		"Captain",
-		"Bearded",
-		"Lovely",
-		"Tiny",
-		"Big",
-		"Fire",
-		"Water",
-		"Frozen",
-		"Metal",
-		"Plastic",
-		"Solid",
-		"Liquid",
-		"Moldy",
-		"Shiny",
-		"Happy",
-		"Happy Little",
-		"Slimy",
-		"Tasty",
-		"Delicious",
-		"Hungry",
-		"Greedy",
-		"Lethal",
-		"Professor",
-		"Doctor",
-		"Power",
-		"Chocolate",
-		"Crumbly",
-		"Choklit",
-		"Righteous",
-		"Glorious",
-		"Mnemonic",
-		"Psychic",
-		"Frenetic",
-		"Hectic",
-		"Crazy",
-		"Royal",
-		"El",
-		"Von"
-	],
-	"bakery random name, 2nd half": [
-		"Cookie",
-		"Biscuit",
-		"Muffin",
-		"Scone",
-		"Cupcake",
-		"Pancake",
-		"Chip",
-		"Sprocket",
-		"Gizmo",
-		"Puppet",
-		"Mitten",
-		"Sock",
-		"Teapot",
-		"Mystery",
-		"Baker",
-		"Cook",
-		"Grandma",
-		"Click",
-		"Clicker",
-		"Spaceship",
-		"Factory",
-		"Portal",
-		"Machine",
-		"Experiment",
-		"Monster",
-		"Panic",
-		"Burglar",
-		"Bandit",
-		"Booty",
-		"Potato",
-		"Pizza",
-		"Burger",
-		"Sausage",
-		"Meatball",
-		"Spaghetti",
-		"Macaroni",
-		"Kitten",
-		"Puppy",
-		"Giraffe",
-		"Zebra",
-		"Parrot",
-		"Dolphin",
-		"Duckling",
-		"Sloth",
-		"Turtle",
-		"Goblin",
-		"Pixie",
-		"Gnome",
-		"Computer",
-		"Pirate",
-		"Ninja",
-		"Zombie",
-		"Robot"
-	],
+		"gta",
+		"GTA",
+		"GTA V",
+		"V",
+		"VVVVVV",
+		"GTAAAA",
+		"GTAAV",
+		"GTA pirate",
+		"GTA",
+		"GTTTTTAA",
+		"GTAa",
+		"GtA",
+		
 	"bakery random name": [
-		"Magic Cookie",
-		"Electro-Muffin",
-		"Cute Pancake",
-		"Chocolate Kitten",
-		"Vanilla Puppy",
-		"Pirate Robot",
-		"Captain Sausage",
-		"Tiny Monster",
-		"Space Zombie",
-		"Hungry Grandma",
-		"Techno-Burger",
-		"Turbo-Pizza",
-		"Medieval Dolphin",
-		"Psychic Turtle",
-		"Dancing Bandit",
-		"Mutant Baker",
-		"Tasty Biscuit",
-		"Happy Little Duckling",
-		"Lethal Macaroni"
+		"GTA V",
+		"GTA-V",
+		"Lovin-GTA-V",
+		"GTAAAAAAAAAVVVVVVVVV",
+		"GTAV!LetsGOOO!",
+		
 	],
 	"%1, age %2": "/",
 	"Sugar lumps!": "/",
@@ -637,21 +513,12 @@ AddLanguage('EN','english',{
 	"Dragon Guts": "/",
 	"News :": "/",
 	"Ticker (grandma)": [
-		"Moist cookies.",
-		"We're nice grandmas.",
-		"Indentured servitude.",
-		"Come give grandma a kiss.",
-		"Why don't you visit more often?",
-		"Call me..."
+		"Please play GTA V..."
+		"Buy GTA V"
 	],
 	"Ticker (threatening grandma)": [
-		"Absolutely disgusting.",
-		"You make me sick.",
-		"You disgust me.",
-		"We rise.",
-		"It begins.",
-		"It'll all be over soon.",
-		"You could have stopped it."
+		"GTA V"
+		"Play GTA V"
 	],
 	"Ticker (angry grandma)": [
 		"It has betrayed us, the filthy little thing.",
@@ -660,115 +527,45 @@ AddLanguage('EN','english',{
 		"I can smell your rotten cookies."
 	],
 	"Ticker (grandmas return)": [
-		"shrivel",
-		"writhe",
-		"throb",
-		"gnaw",
-		"We will rise again.",
-		"A mere setback.",
-		"We are not satiated.",
-		"Too late."
+		"WE WANT GTA V! PLAY IT"
 	],
 	"Ticker (grandma invasion start)": [
-		"millions of old ladies reported missing!",
-		"families around the continent report agitated, transfixed grandmothers!",
-		"nurses report \"strange scent of cookie dough\" around female elderly patients!"
+		"GTA V WORKERS ON STRIKE!"
 	],
 	"Ticker (grandma invasion rise)": [
-		"town in disarray as strange old ladies break into homes to abduct infants and baking utensils!",
-		"whole continent undergoing mass exodus of old ladies!",
-		"old women freeze in place in streets, ooze warm sugary syrup!"
+		"Lester becomes an idol for many children!"
 	],
 	"Ticker (grandma invasion full)": [
-		"wrinkled \"flesh tendrils\" visible from space!",
-		"all hope lost as writhing mass of flesh and dough engulfs whole city!",
-		"nightmare continues as wrinkled acres of flesh expand at alarming speeds!"
+		"Lester earns the title 'Lester The malestor'"
 	],
 	"Ticker (Farm)": [
-		"cookie farms release harmful chocolate in our rivers, says scientist!",
-		"genetically-modified chocolate controversy strikes cookie farmers!",
-		"farm cookies deemed unfit for vegans, says nutritionist."
+		"GTA V disks are currupting people's Xbox's!"
 	],
 	"Ticker (Mine)": [
-		"is our planet getting lighter? Experts examine the effects of intensive chocolate mining.",
-		"chocolate mines found to cause earthquakes and sinkholes!",
-		"depths of chocolate mines found to house \"peculiar, chocolaty beings\"!"
+		"People HATE GTA V"
 	],
 	"Ticker (Factory)": [
-		"cookie factories linked to global warming!",
-		"cookie factories on strike, robotic minions employed to replace workforce!",
-		"cookie factories on strike - workers demand to stop being paid in cookies!"
+		"GTA"
 	],
 	"Ticker (Bank)": [
-		"cookie loans on the rise as people can no longer afford them with regular money.",
-		"cookies slowly creeping up their way as a competitor to traditional currency!",
-		"most bakeries now fitted with ATMs to allow for easy cookie withdrawals and deposits."
+	        "GTA V prices skyrocketing!"
 	],
 	"Ticker (Temple)": [
-		"recently-discovered chocolate temples now sparking new cookie-related cult; thousands pray to Baker in the sky!",
-		"theists of the world discover new cookie religion - \"Oh boy, guess we were wrong all along!\"",
-		"explorers bring back ancient artifact from abandoned temple; archeologists marvel at the centuries-old rolling pin!"
+		"GTA V lover's pray"
 	],
 	"Ticker (Wizard tower)": [
-		"get your new charms and curses at the yearly National Spellcrafting Fair! Exclusive prices on runes and spellbooks.",
-		"cookie wizards deny involvement in shockingly ugly newborn - infant is \"honestly grody-looking, but natural\", say doctors.",
-		"\"Any sufficiently crude magic is indistinguishable from technology\", claims renowned technowizard."
+		"Wizards end up turning dirt into GTA V disks"
 	],
 	"Ticker (Shipment)": [
-		"new chocolate planet found, becomes target of cookie-trading spaceships!",
-		"massive chocolate planet found with 99.8% certified pure dark chocolate core!",
-		"chocolate-based organisms found on distant planet!"
+		"Futuristic Lester robot from the heavens!"
 	],
 	"Ticker (Alchemy lab)": [
-		"national gold reserves dwindle as more and more of the precious mineral is turned to cookies!",
-		"silver found to also be transmutable into white chocolate!",
-		"defective alchemy lab shut down, found to convert cookies to useless gold."
+		"WOOOOOOOSH More GTA V disks Lets gooo!"
 	],
 	"Ticker (Portal)": [
-		"nation worried as more and more unsettling creatures emerge from dimensional portals!",
-		"tourism to cookieverse popular with bored teenagers! Casualty rate as high as 73%!",
-		"cookieverse portals suspected to cause fast aging and obsession with baking, says study."
+		"Nation worried as people are adedicted to GTA V and all relations"
 	],
-	"Ticker (Time machine)": [
-		"time machines involved in history-rewriting scandal! Or are they?",
-		"cookies brought back from the past \"unfit for human consumption\", says historian.",
-		"\"I have seen the future,\" says time machine operator, \"and I do not wish to go there again.\""
-	],
-	"Ticker (Antimatter condenser)": [
-		"whole town seemingly swallowed by antimatter-induced black hole; more reliable sources affirm town \"never really existed\"!",
-		"researchers conclude that what the cookie industry needs, first and foremost, is \"more magnets\".",
-		"first antimatter condenser successfully turned on, doesn't rip apart reality!"
-	],
-	"Ticker (Prism)": [
-		"scientists warn against systematically turning light into matter - One day, we'll end up with all matter and no light!\"",
-		"cookies now being baked at the literal speed of light thanks to new prismatic contraptions.",
-		"world citizens advised \"not to worry\" about frequent atmospheric flashes."
-	],
-	"Ticker (Chancemaker)": [
-		"strange statistical anomalies continue as weather forecast proves accurate an unprecedented 3 days in a row!",
-		"local casino ruined as all gamblers somehow hit a week-long winning streak! \"We might still be okay\", says owner before being hit by lightning 47 times.",
-		"neighboring nation somehow elects president with sensible policies in freak accident of random chance!"
-	],
-	"Ticker (Fractal engine)": [
-		"local man \"done with Cookie Clicker\", finds the constant self-references \"grating and on-the-nose\".",
-		"local guru claims \"there's a little bit of ourselves in everyone\", under investigation for alleged cannibalism.",
-		"polls find idea of cookies made of cookies \"acceptable\" - \"at least we finally know what's in them\", says interviewed citizen."
-	],
-	"Ticker (Javascript console)": [
-		"coding is hip! More and more teenagers turn to technical fields like programming, ensuring a future robot apocalypse and the doom of all mankind.",
-		"developers unsure what to call their new javascript libraries as all combinations of any 3 dictionary words have already been taken.",
-		"strange fad has parents giving their newborns names such as Emma.js or Liam.js. At least one Baby.js reported."
-	],
-	"Ticker (Idleverse)": [
-		"is another you living out their dreams in an alternate universe? Probably, you lazy bum!",
-		"\"I find solace in the knowledge that at least some of my alternate selves are probably doing fine out there\", says citizen's last remaining exemplar in the multiverse.",
-		"comic book writers point to actual multiverse in defense of dubious plot points. \"See? I told you it wasn't 'hackneyed and contrived'!\""
-	],
-	"Ticker (Cortex baker)": [
-		"runt cortex baker identified with an IQ of only quintuple digits: \"just a bit of a dummy\", say specialists.",
-		"astronomers warn of cortex baker trajectory drift, fear future head-on collisions resulting in costly concussions.",
-		"cortex baker wranglers kindly remind employees that cortex bakers are the bakery's material property and should not be endeared with nicknames."
-	],
+	
 	"Ticker (You)": [
 		"the person of the year is, this year again, you! How unexpected!",
 		"could local restaurants be serving you bootleg clone meat? Our delicious investigation follows after tonight's news.",
@@ -797,49 +594,16 @@ AddLanguage('EN','english',{
 		"mysterious rabbits found to be egg-layers, but mammalian, hinting at possible platypus ancestry."
 	],
 	"Ticker (misc)": [
-		"doctors recommend twice-daily consumption of fresh cookies.",
-		"doctors advise against new cookie-free fad diet.",
-		"doctors warn mothers about the dangers of \"home-made cookies\".",
-		"\"I'm not addicted to cookies. That's just speculation by fans with too much free time\", reveals celebrity.",
-		"\"alright, I'll say it - I've never eaten a single cookie in my life\", reveals celebrity.",
-		"\"cookies helped me stay thin and healthy\", reveals celebrity.",
-		"man robs bank, buys cookies.",
-		"new study suggests cookies neither speed up nor slow down aging, but instead \"take you in a different direction\".",
-		"man found allergic to cookies; \"what a weirdo\", says family.",
-		"cookie shortage strikes town, people forced to eat cupcakes; \"just not the same\", concedes mayor.",
-		"\"you gotta admit, all this cookie stuff is a bit ominous\", says confused idiot.",
-		"mysterious illegal cookies seized; \"tastes terrible\", says police.",
-		"\"Ook\", says interviewed orangutan.",
-		"is our media controlled by the cookie industry? This could very well be the case, says crackpot conspiracy theorist.",
-		"\"at this point, cookies permeate the economy\", says economist. \"If we start eating anything else, we're all dead.\"",
-		"cookies now illegal in some backwards country nobody cares about. Political tensions rising; war soon, hopefully."
+		"We love GTA V they chant",
+		"Mmmmmmmmmm GTA V disks are yummy",
+		"Mmmmm cookies suck",
+		
+
 	],
-	"You feel like making cookies. But nobody wants to eat your cookies.": "/",
-	"Your first batch goes to the trash. The neighborhood raccoon barely touches it.": "/",
-	"Your family accepts to try some of your cookies.": "/",
-	"Your cookies are popular in the neighborhood.": "/",
-	"People are starting to talk about your cookies.": "/",
-	"Your cookies are talked about for miles around.": "/",
-	"Your cookies are renowned in the whole town!": "/",
-	"Your cookies bring all the boys to the yard.": "/",
-	"Your cookies now have their own website!": "/",
-	"Your cookies are worth a lot of money.": "/",
-	"Your cookies sell very well in distant countries.": "/",
-	"People come from very far away to get a taste of your cookies.": "/",
-	"Kings and queens from all over the world are enjoying your cookies.": "/",
-	"There are now museums dedicated to your cookies.": "/",
-	"A national day has been created in honor of your cookies.": "/",
-	"Your cookies have been named a part of the world wonders.": "/",
-	"History books now include a whole chapter about your cookies.": "/",
-	"Your cookies have been placed under government surveillance.": "/",
-	"The whole planet is enjoying your cookies!": "/",
-	"Strange creatures from neighboring planets wish to try your cookies.": "/",
-	"Elder gods from the whole cosmos have awoken to taste your cookies.": "/",
-	"Beings from other dimensions lapse into existence just to get a taste of your cookies.": "/",
-	"Your cookies have achieved sentience.": "/",
-	"The universe has now turned into cookie dough, to the molecular level.": "/",
-	"Your cookies are rewriting the fundamental laws of the universe.": "/",
-	"A local news station runs a 10-minute segment about your cookies. Success!<br><small>(you win a cookie)</small>": "/",
+        "You need to play GTA V.": "/",
+	"You make a fangame of GTA V.": "/",
+	"There are now museums dedicated to you GTA V.": "/",
+	"A national day has been created in honor of GTA V.": "/",
 	"it's time to stop playing": "/",
 	"Today is your lucky day!": "/",
 	"Your lucky numbers are:": "/",
